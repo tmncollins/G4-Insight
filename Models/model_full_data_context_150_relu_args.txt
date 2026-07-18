@@ -1,0 +1,14 @@
+input_size,0
+rnn_layer_n,5
+rnn_layer_size,128
+rnn_dropout,0.1
+rnn_bidirectional,True
+pool_size,3
+mlp_layer_size,256
+mlp_dropout,0.2
+vocab_size,5
+cnn_kernel_size,16
+cnn_channels_in,128
+cnn_channels_out,128
+context,150
+L,0.0005
